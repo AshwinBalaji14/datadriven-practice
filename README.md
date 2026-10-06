@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Tail Finder](./practice/python/the-tail-finder) | Python | Medium | 2026-10-05 |
 | [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Medium | 2026-10-05 |
 
 <!-- datadriven:index:end -->
