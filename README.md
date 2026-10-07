@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [First Interaction Credit](./practice/sql/first-interaction-credit) | SQL | Hard | 2026-10-07 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-07 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-06 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-06 |
