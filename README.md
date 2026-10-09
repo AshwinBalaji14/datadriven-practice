@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-09 |
 | [Allocations in Top Spending Region](./practice/sql/allocations-in-top-spending-region) | SQL | Hard | 2026-10-09 |
 | [Services With Most Checks in 2025](./practice/sql/services-with-most-checks-in-year-1) | SQL | Hard | 2026-10-09 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-10-09 |
