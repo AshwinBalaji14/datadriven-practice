@@ -1,6 +1,6 @@
 # ashwin_balaji_14's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-10-09 |
 | [First Interaction Credit](./practice/sql/first-interaction-credit) | SQL | Hard | 2026-10-07 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-07 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-06 |
