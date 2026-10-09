@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Services With Most Checks in 2025](./practice/sql/services-with-most-checks-in-year-1) | SQL | Hard | 2026-10-09 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-10-09 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-10-09 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-10-09 |
