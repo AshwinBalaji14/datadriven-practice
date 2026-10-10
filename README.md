@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-10-10 |
 | [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-10-09 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-09 |
 | [Allocations in Top Spending Region](./practice/sql/allocations-in-top-spending-region) | SQL | Hard | 2026-10-09 |
