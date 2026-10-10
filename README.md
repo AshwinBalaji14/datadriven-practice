@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-10 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-10-10 |
 | [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-10-09 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-09 |
