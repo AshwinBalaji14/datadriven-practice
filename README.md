@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roll Call](./practice/python/the-roll-call) | Python | Easy | 2026-10-26 |
 | [The Word Flipper](./practice/python/the-word-flipper) | Python | Easy | 2026-10-26 |
 | [The Tree Measurer](./practice/python/the-tree-measurer) | Python | Easy | 2026-10-26 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-10-26 |
