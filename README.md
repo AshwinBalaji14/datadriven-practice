@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-10-26 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-10-10 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-10 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-10-10 |
