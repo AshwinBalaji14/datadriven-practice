@@ -16,7 +16,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-10 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-10-10 |
 | [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-10-09 |
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-10-09 |
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-09 |
 | [Allocations in Top Spending Region](./practice/sql/allocations-in-top-spending-region) | SQL | Hard | 2026-10-09 |
 | [Services With Most Checks in 2025](./practice/sql/services-with-most-checks-in-year-1) | SQL | Hard | 2026-10-09 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-10-09 |
