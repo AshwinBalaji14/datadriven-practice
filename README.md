@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ashwin_balaji_14), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [After the Handshake](./practice/sql/after-the-handshake) | SQL | Medium | 2026-11-05 |
 | [Campaign Click Rate](./practice/sql/campaign-click-rate) | SQL | Medium | 2026-11-04 |
 | [The Roll Call](./practice/python/the-roll-call) | Python | Easy | 2026-10-26 |
 | [The Word Flipper](./practice/python/the-word-flipper) | Python | Easy | 2026-10-26 |
